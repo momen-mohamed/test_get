@@ -4,6 +4,7 @@
 
 int x = 2;
 int y = 15;
+int z = 40;
 
 int main(void){
 
