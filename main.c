@@ -3,7 +3,7 @@
 
 
 int x = 2;
-
+int y = 15;
 
 int main(void){
 
@@ -15,5 +15,9 @@ int main(void){
 }
 
 void addedFunc(void){
+    
+}
+
+void addedFunc2(void){
     
 }
