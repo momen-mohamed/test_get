@@ -1,7 +1,15 @@
 #include <stdio.h>
 
 
+
+int x = 2;
+
+
 int main(void){
-    int x1 = 2;
-    int z = 4;
+
+    const int* s = &x;
+    
+
+    *(int*)s = 5;
+    
 }
