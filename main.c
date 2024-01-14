@@ -13,3 +13,7 @@ int main(void){
     *(int*)s = 5;
     
 }
+
+void addedFunc(void){
+    
+}
