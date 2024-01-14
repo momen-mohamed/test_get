@@ -3,11 +3,23 @@
 
 
 int x = 2;
-int y = 2;
-int z = 3;
-
+int y = 15;
+int z = 40;
+int x1 = 21;
 
 int main(void){
-    int x = 2;
-    int y =14;
+
+    const int* s = &x;
+    
+
+    *(int*)s = 5;
+    
+}
+
+void addedFunc(void){
+    
+}
+
+void addedFunc2(void){
+    
 }
