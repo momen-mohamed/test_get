@@ -32,3 +32,7 @@ void addedFunc3(void){
 void addedFunc4(void){
     
 }
+
+void addedFunc5(void){
+    
+}
