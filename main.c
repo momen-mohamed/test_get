@@ -36,3 +36,7 @@ void addedFunc4(void){
 void addedFunc5(void){
     
 }
+
+void addedFunc6(void){
+    
+}
